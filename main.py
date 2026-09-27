@@ -5,7 +5,7 @@ from question import questions
 load_dotenv()
 admin_password = os.getenv("QUIZ_ADMIN_PASSWORD")
 
-open_admin = input("do you want yo open admin mode? yes/no: ")
+open_admin = input("do you want to open admin mode? yes/no: ")
 
 if open_admin.lower() == "yes":
     entered_password = input("enter admin password = ")
