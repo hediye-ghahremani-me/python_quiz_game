@@ -1,6 +1,7 @@
 # Python Quiz Game
 ![Static Badge](https://img.shields.io/badge/python-3.12-blue)
-A simple quiz game built with python
+
+A simple quiz game built with Python
 ## Table of contents
 - [Features](#features)
 - [Project structure](#project-structure)
@@ -149,7 +150,7 @@ keep practicing,  Hediye!
 - [x] Calculate the final score
 - [x] Save results to a file
 - [x] Add admin mode 
-- [ ] Add more quiz questions
+- [x] Add more quiz questions
 - [ ] Add difficultly levels
 - [ ] Add a timer
 
